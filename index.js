@@ -164,7 +164,7 @@ Please make sure to update tests as appropriate.</p><br>
 <hr color= "slateblue" noshade>
 
 <h3 id='license'>License</h3>
-<p>This project incorporates the following license: <a href="https://opensource.org/licenses/${answers.license}">${answers.license}</a></p>
+<p>This project incorporates the following license: <a href="https://www.npmjs.com/package/inquirer${answers.license}">${answers.license}</a></p>
 <a href="#top" id="start">(Back to Top of Page)</a><br>
 
 <hr color= "slateblue" noshade>
