@@ -85,6 +85,7 @@ function promptUser() {
           message: "13. Which license would you prefer to use? (Hit enter to select)",
           name: 'license',
           choices:[
+          'MIT',
           'ISC',
           'Unlicense', 
           'W3C'           
