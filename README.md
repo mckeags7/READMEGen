@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+Link to video recording: https://www.loom.com/share/871e71de88524fd2a34ce5fcaa4d3f36
+>>>>>>> f013ac8cfe2cdf8ca09f74f80ea7be33f5bcdb89
 
  <!DOCTYPE html>
 <html lang="en">
