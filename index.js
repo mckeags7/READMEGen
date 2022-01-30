@@ -4,7 +4,7 @@ const inquirer = require('inquirer');
 const fs = require('fs');
 const util = require("util");
 
-console.log("Welcome to the Good README Generator. Simply answer the next series of questions to generate a top-notch README.");
+console.log("Welcome to my README generator. Answer the next series of questions to generate a README.");
 
 const writeFileAsync = util.promisify(fs.writeFile);
 
@@ -175,7 +175,7 @@ Please make sure to update tests as appropriate.</p><br>
 </html> `;
 }
 
-// function to initialize program
+
 async function init() {
     try {
          const answers = await promptUser();
@@ -190,7 +190,7 @@ async function init() {
     }
 }
 
-// function call to initialize program
+
 init(); 
 
 
