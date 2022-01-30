@@ -1,4 +1,4 @@
-Link to video recording: 
+Link to video recording: https://www.loom.com/share/871e71de88524fd2a34ce5fcaa4d3f36
 
 <!DOCTYPE html>
 <html lang="en">
