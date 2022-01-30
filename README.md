@@ -43,7 +43,7 @@ HTML,CSS,JavaScript,node.js</p><br>
 <hr color= "slateblue" noshade>
 
 <h3 id='installation'>Installation</h3>
-<p>No installation is needed.</p><br>
+<p>The user will need to clone the repository. No other installation is needed.</p><br>
 <a href="#top" id="start">(Back to Top of Page)</a><br>
 <br>
 <hr color= "slateblue" noshade>
